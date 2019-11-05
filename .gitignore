@@ -7,6 +7,5 @@ dash_bootstrap_components/metadata.json
 *.pyc
 dist
 changelog.tmp
-dash_bootstrap_components/_components/
 .sass-cache
 .vscode
